@@ -1,4 +1,4 @@
-# **⏳ TimeMeasurementInDotNet**
+# **⏳ Execution Time Measurement In DotNet**
 
 A project to demonstrate the **correct way to measure execution time** in .NET. 🛠️ Learn how to avoid common pitfalls, optimize performance, and measure time like a pro!
 
