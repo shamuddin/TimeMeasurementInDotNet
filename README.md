@@ -85,8 +85,12 @@ Follow these steps to run the benchmarks and view the results:
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
+## **📜 License**
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 ---
 
-[## **📚 References**
+## **📚 References**
 
-- Medium Article: [Read the Full Explanation](https://medium.com/your-article-link)](https://medium.com/@shamuddin/stop-measuring-time-wrongly-in-net-the-right-way-to-measure-execution-time-291b04371750)
+- Medium Article: [Read the Full Explanation](https://medium.com/@shamuddin/stop-measuring-time-wrongly-in-net-the-right-way-to-measure-execution-time-291b04371750)
